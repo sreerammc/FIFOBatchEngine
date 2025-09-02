@@ -1,8 +1,709 @@
 {
-  "start_time": "2025-09-02T16:37:57.251261",
-  "total_requests": 432,
-  "successful_requests": 422,
-  "failed_requests": 10,
-  "average_response_time": 0,
-  "cycles": []
+  "start_time": "2025-09-02T22:36:59.738628",
+  "total_requests": 2257,
+  "successful_requests": 2209,
+  "failed_requests": 48,
+  "average_response_time": 2.056,
+  "cycles": [
+    {
+      "timestamp": "2025-09-02 22:39:37.189",
+      "points_processed": 1,
+      "processing_time": 2.000889539718628,
+      "total_time": 2.002372980117798,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.192",
+      "points_processed": 1,
+      "processing_time": 2.00354266166687,
+      "total_time": 2.0040719509124756,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.219",
+      "points_processed": 1,
+      "processing_time": 2.0090444087982178,
+      "total_time": 2.009808301925659,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.302",
+      "points_processed": 1,
+      "processing_time": 2.0170631408691406,
+      "total_time": 2.018859386444092,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.540",
+      "points_processed": 1,
+      "processing_time": 2.00236439704895,
+      "total_time": 2.0030579566955566,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.673",
+      "points_processed": 1,
+      "processing_time": 2.0099148750305176,
+      "total_time": 2.0160024166107178,
+      "concurrent_requests": 46
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.674",
+      "points_processed": 1,
+      "processing_time": 2.0078554153442383,
+      "total_time": 2.0161025524139404,
+      "concurrent_requests": 47
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.681",
+      "points_processed": 1,
+      "processing_time": 2.006943702697754,
+      "total_time": 2.0086212158203125,
+      "concurrent_requests": 46
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.684",
+      "points_processed": 1,
+      "processing_time": 2.004939556121826,
+      "total_time": 2.0060174465179443,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.693",
+      "points_processed": 1,
+      "processing_time": 2.000154733657837,
+      "total_time": 2.004568576812744,
+      "concurrent_requests": 46
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.693",
+      "points_processed": 1,
+      "processing_time": 2.000450611114502,
+      "total_time": 2.0053954124450684,
+      "concurrent_requests": 46
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.698",
+      "points_processed": 1,
+      "processing_time": 2.0024220943450928,
+      "total_time": 2.0229930877685547,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.696",
+      "points_processed": 1,
+      "processing_time": 2.0028076171875,
+      "total_time": 2.024477958679199,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.695",
+      "points_processed": 1,
+      "processing_time": 2.0032451152801514,
+      "total_time": 2.026317834854126,
+      "concurrent_requests": 47
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.695",
+      "points_processed": 1,
+      "processing_time": 2.00520396232605,
+      "total_time": 2.026735544204712,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.789",
+      "points_processed": 1,
+      "processing_time": 2.03956937789917,
+      "total_time": 2.058807134628296,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.831",
+      "points_processed": 1,
+      "processing_time": 2.0071232318878174,
+      "total_time": 2.0968542098999023,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.876",
+      "points_processed": 1,
+      "processing_time": 2.000441074371338,
+      "total_time": 2.08532452583313,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.911",
+      "points_processed": 1,
+      "processing_time": 2.0058088302612305,
+      "total_time": 2.099491596221924,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.973",
+      "points_processed": 1,
+      "processing_time": 2.0013463497161865,
+      "total_time": 2.044168472290039,
+      "concurrent_requests": 44
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.974",
+      "points_processed": 1,
+      "processing_time": 2.0009982585906982,
+      "total_time": 2.0441670417785645,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.974",
+      "points_processed": 1,
+      "processing_time": 2.0011966228485107,
+      "total_time": 2.0470337867736816,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.992",
+      "points_processed": 1,
+      "processing_time": 2.0025691986083984,
+      "total_time": 2.04144287109375,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.993",
+      "points_processed": 1,
+      "processing_time": 2.0021133422851562,
+      "total_time": 2.0415072441101074,
+      "concurrent_requests": 46
+    },
+    {
+      "timestamp": "2025-09-02 22:39:37.999",
+      "points_processed": 1,
+      "processing_time": 2.0038235187530518,
+      "total_time": 2.111422538757324,
+      "concurrent_requests": 46
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.032",
+      "points_processed": 1,
+      "processing_time": 2.001390218734741,
+      "total_time": 2.105865955352783,
+      "concurrent_requests": 46
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.031",
+      "points_processed": 1,
+      "processing_time": 2.001021385192871,
+      "total_time": 2.106687545776367,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.120",
+      "points_processed": 1,
+      "processing_time": 2.0001137256622314,
+      "total_time": 2.020432949066162,
+      "concurrent_requests": 44
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.121",
+      "points_processed": 1,
+      "processing_time": 2.001150369644165,
+      "total_time": 2.0216217041015625,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.122",
+      "points_processed": 1,
+      "processing_time": 2.009228229522705,
+      "total_time": 2.0306918621063232,
+      "concurrent_requests": 47
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.122",
+      "points_processed": 1,
+      "processing_time": 2.0098791122436523,
+      "total_time": 2.0314829349517822,
+      "concurrent_requests": 46
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.123",
+      "points_processed": 1,
+      "processing_time": 2.00862979888916,
+      "total_time": 2.03060245513916,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.139",
+      "points_processed": 1,
+      "processing_time": 2.009147882461548,
+      "total_time": 2.0208356380462646,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.145",
+      "points_processed": 1,
+      "processing_time": 2.0083017349243164,
+      "total_time": 2.01515793800354,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.226",
+      "points_processed": 1,
+      "processing_time": 2.004525661468506,
+      "total_time": 2.0683343410491943,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.310",
+      "points_processed": 1,
+      "processing_time": 2.038761615753174,
+      "total_time": 2.043342351913452,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.310",
+      "points_processed": 1,
+      "processing_time": 2.025111198425293,
+      "total_time": 2.0431299209594727,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.345",
+      "points_processed": 1,
+      "processing_time": 2.0063486099243164,
+      "total_time": 2.008888006210327,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.357",
+      "points_processed": 1,
+      "processing_time": 2.0026230812072754,
+      "total_time": 2.0043838024139404,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.360",
+      "points_processed": 1,
+      "processing_time": 2.002171754837036,
+      "total_time": 2.00258207321167,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.562",
+      "points_processed": 1,
+      "processing_time": 2.0118279457092285,
+      "total_time": 2.013322114944458,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.562",
+      "points_processed": 1,
+      "processing_time": 2.011831283569336,
+      "total_time": 2.013270616531372,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.565",
+      "points_processed": 1,
+      "processing_time": 2.0098583698272705,
+      "total_time": 2.0105528831481934,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.698",
+      "points_processed": 1,
+      "processing_time": 2.0594677925109863,
+      "total_time": 2.0606112480163574,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.701",
+      "points_processed": 1,
+      "processing_time": 2.0575222969055176,
+      "total_time": 2.0582401752471924,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.700",
+      "points_processed": 1,
+      "processing_time": 2.0581624507904053,
+      "total_time": 2.0592877864837646,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.855",
+      "points_processed": 1,
+      "processing_time": 2.0002386569976807,
+      "total_time": 2.0038983821868896,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.855",
+      "points_processed": 1,
+      "processing_time": 2.000842571258545,
+      "total_time": 2.0045225620269775,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.855",
+      "points_processed": 1,
+      "processing_time": 2.001444101333618,
+      "total_time": 2.005204439163208,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:38.861",
+      "points_processed": 1,
+      "processing_time": 2.007328510284424,
+      "total_time": 2.0079779624938965,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.210",
+      "points_processed": 1,
+      "processing_time": 2.2932608127593994,
+      "total_time": 2.2948787212371826,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.214",
+      "points_processed": 1,
+      "processing_time": 2.2993292808532715,
+      "total_time": 2.3137545585632324,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.247",
+      "points_processed": 1,
+      "processing_time": 2.2816355228424072,
+      "total_time": 2.2823474407196045,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.338",
+      "points_processed": 1,
+      "processing_time": 2.2834041118621826,
+      "total_time": 2.284099817276001,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.573",
+      "points_processed": 1,
+      "processing_time": 2.0490036010742188,
+      "total_time": 2.072958469390869,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.754",
+      "points_processed": 1,
+      "processing_time": 2.0005669593811035,
+      "total_time": 2.003403663635254,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.758",
+      "points_processed": 1,
+      "processing_time": 2.003732681274414,
+      "total_time": 2.020261764526367,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.774",
+      "points_processed": 1,
+      "processing_time": 2.0006165504455566,
+      "total_time": 2.0762999057769775,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.774",
+      "points_processed": 1,
+      "processing_time": 2.0014379024505615,
+      "total_time": 2.078122138977051,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.776",
+      "points_processed": 1,
+      "processing_time": 2.000868320465088,
+      "total_time": 2.0768330097198486,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.760",
+      "points_processed": 1,
+      "processing_time": 2.001439094543457,
+      "total_time": 2.0927844047546387,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.868",
+      "points_processed": 1,
+      "processing_time": 2.0054242610931396,
+      "total_time": 2.066744804382324,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.868",
+      "points_processed": 1,
+      "processing_time": 2.0060880184173584,
+      "total_time": 2.0677194595336914,
+      "concurrent_requests": 47
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.915",
+      "points_processed": 1,
+      "processing_time": 2.004469156265259,
+      "total_time": 2.020418167114258,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.869",
+      "points_processed": 1,
+      "processing_time": 2.004870891571045,
+      "total_time": 2.0666611194610596,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.922",
+      "points_processed": 1,
+      "processing_time": 2.0041282176971436,
+      "total_time": 2.013113498687744,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:39.947",
+      "points_processed": 1,
+      "processing_time": 2.0035877227783203,
+      "total_time": 2.0042762756347656,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.116",
+      "points_processed": 1,
+      "processing_time": 2.000295400619507,
+      "total_time": 2.0134918689727783,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.145",
+      "points_processed": 1,
+      "processing_time": 2.0005970001220703,
+      "total_time": 2.0593559741973877,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.149",
+      "points_processed": 1,
+      "processing_time": 2.0010178089141846,
+      "total_time": 2.056415319442749,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.149",
+      "points_processed": 1,
+      "processing_time": 2.000175952911377,
+      "total_time": 2.128791332244873,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.152",
+      "points_processed": 1,
+      "processing_time": 2.0008575916290283,
+      "total_time": 2.1271016597747803,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.209",
+      "points_processed": 1,
+      "processing_time": 2.0019912719726562,
+      "total_time": 2.077446460723877,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.277",
+      "points_processed": 1,
+      "processing_time": 2.0028419494628906,
+      "total_time": 2.0159106254577637,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.481",
+      "points_processed": 1,
+      "processing_time": 2.000420093536377,
+      "total_time": 2.0066709518432617,
+      "concurrent_requests": 47
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.454",
+      "points_processed": 1,
+      "processing_time": 2.002868890762329,
+      "total_time": 2.040173053741455,
+      "concurrent_requests": 47
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.463",
+      "points_processed": 1,
+      "processing_time": 2.001347064971924,
+      "total_time": 2.032410144805908,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.475",
+      "points_processed": 1,
+      "processing_time": 2.0011167526245117,
+      "total_time": 2.021620750427246,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.479",
+      "points_processed": 1,
+      "processing_time": 2.0083630084991455,
+      "total_time": 2.0303001403808594,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.480",
+      "points_processed": 1,
+      "processing_time": 2.005403757095337,
+      "total_time": 2.029492139816284,
+      "concurrent_requests": 46
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.494",
+      "points_processed": 1,
+      "processing_time": 2.0004148483276367,
+      "total_time": 2.083685874938965,
+      "concurrent_requests": 45
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.495",
+      "points_processed": 1,
+      "processing_time": 2.0012121200561523,
+      "total_time": 2.090784788131714,
+      "concurrent_requests": 46
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.504",
+      "points_processed": 1,
+      "processing_time": 2.0002992153167725,
+      "total_time": 2.089381217956543,
+      "concurrent_requests": 47
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.505",
+      "points_processed": 1,
+      "processing_time": 2.0063071250915527,
+      "total_time": 2.0969290733337402,
+      "concurrent_requests": 47
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.516",
+      "points_processed": 1,
+      "processing_time": 2.0047433376312256,
+      "total_time": 2.087193489074707,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.515",
+      "points_processed": 1,
+      "processing_time": 2.005321502685547,
+      "total_time": 2.0877134799957275,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.595",
+      "points_processed": 1,
+      "processing_time": 2.0009286403656006,
+      "total_time": 2.072049140930176,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.600",
+      "points_processed": 1,
+      "processing_time": 2.000440835952759,
+      "total_time": 2.068521499633789,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.605",
+      "points_processed": 1,
+      "processing_time": 2.0043182373046875,
+      "total_time": 2.075270652770996,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.766",
+      "points_processed": 1,
+      "processing_time": 2.0004396438598633,
+      "total_time": 2.0053179264068604,
+      "concurrent_requests": 47
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.792",
+      "points_processed": 1,
+      "processing_time": 2.0005526542663574,
+      "total_time": 2.0066721439361572,
+      "concurrent_requests": 48
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.794",
+      "points_processed": 1,
+      "processing_time": 2.000317096710205,
+      "total_time": 2.006065607070923,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.794",
+      "points_processed": 1,
+      "processing_time": 2.003148078918457,
+      "total_time": 2.008932590484619,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.796",
+      "points_processed": 1,
+      "processing_time": 2.0024802684783936,
+      "total_time": 2.007578134536743,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.795",
+      "points_processed": 1,
+      "processing_time": 2.002887010574341,
+      "total_time": 2.008699417114258,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.804",
+      "points_processed": 1,
+      "processing_time": 2.0003244876861572,
+      "total_time": 2.0039284229278564,
+      "concurrent_requests": 50
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.882",
+      "points_processed": 1,
+      "processing_time": 2.001053810119629,
+      "total_time": 2.007507801055908,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.947",
+      "points_processed": 1,
+      "processing_time": 2.000753402709961,
+      "total_time": 2.0164785385131836,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.980",
+      "points_processed": 1,
+      "processing_time": 2.0005569458007812,
+      "total_time": 2.002692222595215,
+      "concurrent_requests": 49
+    },
+    {
+      "timestamp": "2025-09-02 22:39:40.982",
+      "points_processed": 1,
+      "processing_time": 2.0007598400115967,
+      "total_time": 2.0021679401397705,
+      "concurrent_requests": 50
+    }
+  ]
 }
